@@ -1,12 +1,20 @@
 ## BurpSuite Pro
 
+##### ***Please Download In Telegram :***
+
+```
+https://t.me/NationalIndonesiaSecurity/1/115
+```
+
+###### ***Rung on Windows :****
+
 ```
 C:\Program Files\Java\jdk-13.0.2\bin\java.exe -javaagent:BurpSuiteLoader_v2021.5.jar -noverify -jar burpsuite_pro_v2021.5.jar
 ```
 
 [ Java version 9+ required ](filehorse.com/download-java-development-kit-64/46499/download)
 
-###### ***Linux 🐧:***
+###### ***Run on Linux :***
 
 ```
 java -javaagent:BurpSuiteLoader_v2021.5.jar -noverify -jar burpsuite_pro_v2021.5.jar
